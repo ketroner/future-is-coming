@@ -1,4 +1,4 @@
-# Future is comming ...
+# Future is coming ...
 
 A dark, nerdy exploration of the near future of artificial intelligence. Features a responsive, modern design with neon accents.
 
@@ -21,7 +21,7 @@ start http://localhost:8000
 
 This project is deployed to GitHub Pages at:
 ```
-https://ketroner.github.io/future-is-comming/
+https://ketroner.github.io/future-is-coming/
 ```
 
 ### GitHub Pages Configuration
